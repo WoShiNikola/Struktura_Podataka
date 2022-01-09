@@ -1,0 +1,4 @@
+New_York 8175133
+Los Angeles 3792621
+Chicago 2695598
+Houston 2099451
